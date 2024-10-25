@@ -33,6 +33,8 @@
     "@sl-code-lords/esana-news": "latest",
     "youtubedl-core": "^4.11.5",
     "moment-timezone": "latest",
-    "hirunews-scrap": "^1.1.2"
+    "hirunews-scrap": "^1.1.2",
+    "google-tts-api":"2.0.2",
+    "wa-sticker-formatter":"4.4.4"
   }
 }
