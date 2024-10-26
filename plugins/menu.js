@@ -112,7 +112,7 @@ let madeMenu = ` *👋 Hello ${pushname}*
 
 await conn.sendMessage(from, { audio: { url: voice.menu }, mimetype: 'audio/mp4', ptt: true }, { quoted: mek })
 
-return await conn.sendMessage(from,{image: {url: `https://i.imgur.com/AzQrKon.png`},caption:madeMenu},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://files.catbox.moe/2nmi9q.png`},caption:madeMenu},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`Error`)
