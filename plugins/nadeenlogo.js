@@ -16,7 +16,8 @@ await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/c7ce95554df8fc
 await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/c253ba5258dc2c5c2f33d.png`},caption:dec},{quoted:mek});
 await conn.sendMessage(from,{image:{url: `https://telegra.ph/file/f2a6ee1ab649a2fb72708.jpg`},caption:dec},{quoted:mek});
 await conn.sendMessage(from,{image:{url: `https://i.imgur.com/AzQrKon.png`},caption:dec},{quoted:mek});
-
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/2nmi9q.png`},caption:dec},{quoted:mek});
+    
 }catch(e){
 console.log(e)
 reply(`${e}`)
