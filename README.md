@@ -35,9 +35,9 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 ### SPECIAL THANKS ❤ 
 > Manhiru Yuwan
 > | Dushani
-> | Induwara
 
-##👨🏻‍💻 HORIZON MATRIX TEAM 2024 👨🏻‍💻
+##👨🏻‍💻 CODE WARRIORS TEAM 2024 👨🏻‍💻
+
 
 ### CONTRIBUTIONS 
 > Contributions to Nadeen-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
