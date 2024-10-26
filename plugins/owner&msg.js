@@ -130,7 +130,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
-    if (!isOwner) return reply("❌ уσυ αяє ησт тнє σωηєя!");
+    if (!isOwner) return reply("❌ YOU ARE NOT THE OWNER!");
     reply(`🤖 *Bot JID:* ${conn.user.jid}`);
 });
 
