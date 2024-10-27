@@ -4,7 +4,7 @@ const fg = require('api-dylux');
 
 // -------- Song/Video Download --------
 cmd({
-    pattern: 'yturl',
+    pattern: 'ytdown',
     alias: ["get"],
     desc: 'Download Song / Video',
     use: '.play Title',
